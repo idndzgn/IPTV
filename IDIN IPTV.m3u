@@ -14,8 +14,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",CNN
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",BTV
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",BERITA SATU
-https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",RCTI
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",MNCTV
@@ -33,11 +35,47 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",ANTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",TV ONE
-https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",METRO TV
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV NASIONAL",KOMPAS TV
-http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV|user-agent=Mozilla/5.0
+http://103.160.205.142:9999/stream/channelid/1444379690?profile=pass
+#EXTINF:-1 group-title="TV NASIONAL",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",GARUDA TV
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",ELSHINTA TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",NUSANTARA TV
+http://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",INSPIRA TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",MAGNA TV
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",OXYGEN TV
+https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",TVKU
+https://tvku.tv/hlsstream/hls/live.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",MATRIX TV
+https://stream.matrixtv.id/hls/stream.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",JTV KEDIRI
+http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",STARA TV BDG
+https://bandung.staratv.id/hls/stream.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",STARA TV MLG
+https://malang.staratv.id/hls/stream.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",STARA TV CJR
+https://cianjur.staratv.id/hls/stream.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",STARA TV MJL
+https://stream.staratv.id/hls/stream.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",BRTV
+https://stream.staratv.id/hls/stream.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",FICOM
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1 group-title="TV NASIONAL",RCTV
+https://v10.siar.us/rctv/live/playlist.m3u8
 
 
 //======================================================================//
@@ -90,8 +128,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000030/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
 EXTINF:-1 group-title="NEWS",IDX
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
-EXTINF:-1 group-title="NEWS",FOX
-http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 
 
 //======================================================================//
@@ -108,7 +144,11 @@ https://www.redbooks.site/x11.php?id=371469.m3u8
 #EXTINF:-1 group-title="SPORT",DSTV PREMIER LEAGUE
 https://www.redbooks.site/x11.php?id=238478.m3u8
 #EXTINF:-1 group-title="SPORT",ESPN 2
-https://www.redbooks.site/x11.php?id=238492.m3u8
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22005.ts
+#EXTINF:-1 group-title="SPORT",ESPN 5
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
+#EXTINF:-1 group-title="SPORT",ESPN 6
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 #EXTINF:0 group-title="SPORT",BEIN SPORT 1
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/2541.ts
 #EXTINF:0 group-title="SPORT",BEIN SPORT 2
@@ -195,6 +235,16 @@ http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641627.ts
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641628.ts
 #EXTINF:0 group-title="SPORT",ALWAN SPORT 6
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641629.ts
+#EXTINF:0 group-title="SPORT",ARENA SPORT 1
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/490261
+#EXTINF:0 group-title="SPORT",ARENA SPORT 2
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/490260
+#EXTINF:0 group-title="SPORT",ARENA SPORT 3
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/490259
+#EXTINF:0 group-title="SPORT",ARENA ESPORT
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/520814
+#EXTINF:0 group-title="SPORT",ARENA FIGHT
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/386413
 #EXTINF:0 group-title="SPORT",SPOTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 #EXTINF:0 group-title="SPORT",SPOTV 2
@@ -217,6 +267,8 @@ https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:0 group-title="SPORT",REAL MADRID
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:0 group-title="SPORT",INTER
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 #EXTINF:0 group-title="SPORT",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0 group-title="SPORT",DAZN HELDINNEN
@@ -227,6 +279,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/1846.ts
 #EXTINF:0 group-title="SPORT",FOX SPORT 2
 http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/1847.ts
+#EXTINF:0 group-title="SPORT",DUBAI SPORT 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
 #EXTINF:0 group-title="SPORT",DUBAI SPORT 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:0 group-title="SPORT",DUBAI SPORT 3
@@ -249,6 +303,49 @@ https://unbeaten-tcl.amagi.tv/playlist.m3u8
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 #EXTINF:0 group-title="SPORT",K SPORT +
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:0 group-title="SPORT",LA LIGA INSIDE
+https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
+#EXTINF:0 group-title="SPORT",RIGHT NOW TV
+https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
+#EXTINF:0 group-title="SPORT",SPORT KLUB
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/374481
+#EXTINF:0 group-title="SPORT",SPORT KLUB 1
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/362711
+#EXTINF:0 group-title="SPORT",SPORT KLUB 2
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/362710
+#EXTINF:0 group-title="SPORT",SPORT KLUB 3
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/362709
+#EXTINF:0 group-title="SPORT",SPORT KLUB 4
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/362708
+#EXTINF:0 group-title="SPORT",SPORT KLUB 5
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/362707
+#EXTINF:0 group-title="SPORT",SPORT KLUB 6
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/362706
+#EXTINF:0 group-title="SPORT",SPORT KLUB 8
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/301245
+#EXTINF:0 group-title="SPORT",SPORT KLUB GOLF
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/259985
+#EXTINF:0 group-title="SPORT",SPORT KLUB FIGHT
+http://sltv2.be:8080/DeNiSoNkEl/nPcCsz5hHn/552753
+#EXTINF:0 group-title="SPORT",AL KHASS 3
+https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/chunklist_w970485596.m3u8
+#EXTINF:0 group-title="SPORT",COLIMDO TV
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:0 group-title="SPORT",AYM SPORT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+#EXTINF:0 group-title="SPORT",GAME
+https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
+#EXTINF:0 group-title="SPORT",NITRO CIRCUS
+https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist240P.m3u8
+#EXTINF:0 group-title="SPORT",AWSN
+https://jmp2.uk/plu-682e43b21295f98347710917.m3u8
+#EXTINF:0 group-title="SPORT",PLUTO F1
+https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
+#EXTINF:0 group-title="SPORT",PLUTO FIFA+
+https://jmp2.uk/plu-63d91d2560bc8f0008a225e4.m3u8
+#EXTINF:0 group-title="SPORT",TENNIS 2
+https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
+
 
 
 //======================================================================//
@@ -328,6 +425,28 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:0 group-title="ENTERTAINMENT",PERSIANA JUNIOR
 https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",PERSIANA FAMILY
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",PERSIANA ONE
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",PERSIANA TWO
+https://twohls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",PERSIANA SCIENCE
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",PERSIANA LATINO
+https://latinohls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",PERSIANA SONNATI
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",PERSIANA NOSTALGIA
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",PERSIANA TURKIYE
+https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",PERSIANA KOREA
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",PERSIANA IRAN
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",PERSIANA
+https://euhls.persiana.live/hls/stream.m3u8
 #EXTINF:0 group-title="ENTERTAINMENT",GALAXY Premium
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
 #EXTINF:0 group-title="ENTERTAINMENT",LIFETIME
@@ -338,4 +457,33 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
 #EXTINF:0 group-title="ENTERTAINMENT",STARS
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8
-
+#EXTINF:0 group-title="ENTERTAINMENT",BBC DRAMA
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/720p/index.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",SL 1
+https://slonehls.wns.live/hls/stream.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",SL 2
+https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",I FILM
+https://live.presstv.ir/hls/ifilmen_4_482/index.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",I FILM 2
+https://live.presstv.ir/hls/ifilm2_4_482/index.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",GRAND CINEMA
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",DISCOVERY FILM
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/1200.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",ELECTRIK NOW
+https://elec-en.otteravision.com/elec/en/elec_en_1080p.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",DARK MATTER
+https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/512.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",RCM
+https://amg01076-lightningintern-rialto-samsungnz-03h40.amagi.tv/playlist/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",ACTION HOLLYWOOD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",MBC BOLLYWOOD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT",AVA SERIES
+https://avaserieshls.wns.live/hls/stream.m3u8
