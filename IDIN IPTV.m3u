@@ -45,7 +45,7 @@ http://103.160.205.142:9999/stream/channelid/1444379690?profile=pass
 //======================================================================//
 //	TV DAERAH							//
 //======================================================================//
-#EXTINF:0 group-title="TV DAERAH",SCTV
+#EXTINF:0 group-title="TV DAERAH",BALI TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
 #EXTINF:0 group-title="TV DAERAH",TVMU
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000024/1024.m3u8
